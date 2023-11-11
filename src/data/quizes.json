@@ -1,0 +1,293 @@
+[
+    {
+        "id": 1,
+        "img": "https://tms-outsource.com/blog/wp-content/uploads/2023/03/risk-management-process.jpg",
+        "name": "Risk Management",
+        "questions": [
+            {
+                "id": 1,
+                "text": "銀行內部控制三道防線實務守則,三道防線之角色與功能下列何者為是?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "第二道防線負責建立內部控制程序)",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "當流程及控制程序不足時,第二道防線應立即提出改善計畫",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "第一道防線將風險控制在其單位可承擔範圍內即可,無需向",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "三道防線各司其職,並應互相分享知識與資訊。",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "下列何項敘述最能表達本行之風控文化?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "追求風險與獲利之均衡,而非最大化獲利",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "風險管理是玉山人的 DNA",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "一切業務不能凌駕風險之上;一切服務不能逾越法遵之上",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "以上皆是",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "請問下列有關風險之敘述何者錯誤:",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "風險是預期或非預期事件對銀行資本或盈餘的造成不利影響之可能性",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "風險是用來描述預期及非預期結果的分散度,分散度越大,表示風險越低",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "財務上之獲利及損失(風險)通常來自於暴露在財務變數下之部位或資產以及財務變數或資產的變動率兩項因素",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "以上皆非",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://stl.tech/wp-content/uploads/2021/02/shutterstock_1273052050-scaled.jpg",
+        "name": "ESG",
+        "questions": [
+            {
+                "id": 1,
+                "text": "下列敘述何者正確?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "歐盟永續金融分類規則(EU Taxonomy)採用科學標準質化與量化 對環境目標有實質貢獻之 產業或經濟活動進行分類",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "企業永續報告指令(CSRD)要求企業揭露 ESG 資訊包括採納 TCFD 揭露要求須納入氣候變遷之影響雙重重大性",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "永續金融揭露規範(SFDR)要求金融機構或其銷售產品需揭露ESG 相關資訊",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "以上皆是",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "下列敘述何者為非?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "過去氣候變遷之原因尚有爭議,但近期科學研究結論之主因為人類活動",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "暖化不僅是氣溫改變,更會增加極端天氣發生頻率及影響程度",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "在淨零碳排國際趨勢下,近400家國際大型企業已提出其淨零排放承諾,不過他們的供應鏈因為是各自獨立,所以可以排除在外。",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "巴黎協議 締約方未來將致力推動減碳政策,將本世紀全球氣溫升幅控制不超過攝氏2度,並致力於限制在1.5度以內",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "溫室氣體盤查中,下列哪一項非屬範疇一的範圍?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "類別三:運輸中的間接溫室氣體排放",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "公務車產生的排放",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "生產產品過程中產生的排放",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "投資商品產生的排放",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXw7oAgSYZTibfJwR4ZVPFFSAQuulHlS0T9Q&usqp=CAU",
+        "name": "Customer Service",
+        "questions": [
+            {
+                "id": 1,
+                "text": "擔任大廳接待員時,應如何迎接蒞行顧客呢?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "主動趨前關心顧客需求",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "告訴顧客未滿3萬元應使用ATM自助服務",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "熱情詢問顧客欲辦理的業務直接給號碼牌",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "請保全協助引導。",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "下列何者不是落實公平待客原則應進行之項目?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": " 公平待客僅為總行業管事務,營業單位毋須逐一配合。",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "業管單位應就各業務範疇訂定公平待客原則相關規範及作業流程。",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "業管單位應依主管機關應注意加強事項要求,確實檢視業務內容是否符合相關規範及建立控管機制。",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "業管單位應參考我國各級法院判決案例、相關保護機構之決定書、調處書及顧客申訴或金融消費爭議之態樣,按各業務或商品之性質與特性,適時調整商品及服務之產品設計、銷售行為、契約履行、服務諮詢及客訴處理。",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "以下何者非公平待客原則之內容?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "訂約公平誠信原則",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "廣告招攬真實原則",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "商品或服務適合度原則",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "顧客服務新價值",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    }
+]
